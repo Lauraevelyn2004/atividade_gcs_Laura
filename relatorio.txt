@@ -10,3 +10,10 @@ Com o Git, é possível criar ramificações (branches) para desenvolver novas f
 comparar versões e integrar o trabalho da equipe de maneira organizada.
 
 Esta linha foi adicionada diretamente pela interface do GitHub para simular colaboração.
+
+## Reflexão sobre a Experiência
+
+Esta atividade prática foi muito importante para entender o fluxo de trabalho com Git. 
+Criar uma branch para uma nova tarefa, fazer commits e depois integrar tudo na branch principal (main) 
+simula o dia a dia de um projeto real, mostrando como o Gerenciamento de Configuração é essencial para manter o 
+código organizado e o trabalho em equipe eficiente.
