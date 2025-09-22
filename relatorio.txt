@@ -1,0 +1,10 @@
+O que é Gerenciamento de Configuração de Software (GCS)?
+O Gerenciamento de Configuração de Software é a disciplina que visa controlar a evolução de um sistema de software. 
+Ele envolve práticas para rastrear e controlar as mudanças no código, na documentação e em outros artefatos do projeto, 
+garantindo a integridade e a rastreabilidade ao longo do ciclo de vida do desenvolvimento.
+
+O que é Git?
+Git é um sistema de controle de versão distribuído, uma ferramenta fundamental para aplicar o GCS. 
+Ele permite que múltiplos desenvolvedores trabalhem em paralelo, registrando um histórico completo de todas as alterações. 
+Com o Git, é possível criar ramificações (branches) para desenvolver novas funcionalidades de forma isolada, 
+comparar versões e integrar o trabalho da equipe de maneira organizada.
