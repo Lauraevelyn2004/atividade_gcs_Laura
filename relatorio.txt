@@ -8,3 +8,5 @@ Git é um sistema de controle de versão distribuído, uma ferramenta fundamenta
 Ele permite que múltiplos desenvolvedores trabalhem em paralelo, registrando um histórico completo de todas as alterações. 
 Com o Git, é possível criar ramificações (branches) para desenvolver novas funcionalidades de forma isolada, 
 comparar versões e integrar o trabalho da equipe de maneira organizada.
+
+Esta linha foi adicionada diretamente pela interface do GitHub para simular colaboração.
